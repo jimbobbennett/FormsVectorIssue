@@ -1,0 +1,15 @@
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/VectorIssue.iOS.exe.mdb
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/VectorIssue.iOS.exe
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/VectorIssue.iOS.exe
+/Users/jim.bennett/Projects/VectorIssue/iOS/obj/iPhoneSimulator/Debug/VectorIssue.iOS.exe.mdb
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/VectorIssue.dll
+/Users/jim.bennett/Projects/VectorIssue/iOS/bin/iPhoneSimulator/Debug/VectorIssue.dll.mdb
